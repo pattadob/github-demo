@@ -1,2 +1,2 @@
 feature 01 : done
-feature 02 : done
+feature 02 : done fix defect
